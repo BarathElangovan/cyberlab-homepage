@@ -1,0 +1,154 @@
+/* title */
+#title{
+    background-color: black;
+}
+
+.nav-item{
+    padding: 0 20px;
+    letter-spacing: 0.15em;
+}
+
+.title-content{
+    padding: 9% 0 6% 0;
+}
+
+.title-h1{
+    font-family: 'Stick No Bills', sans-serif;
+    color: darkgreen;
+    line-height: 3.5rem;
+}
+
+.title-p{
+    font-family: 'Grechen Fuemen', cursive;;
+    color: #D4ECDD;
+    line-height: 2.3rem;
+}
+
+.view-course-button{
+    margin: 2% 5% 3% 30%;
+}
+.hackers-image{
+    width: 440px;
+    height: 330px;
+    border-radius: 9%;
+    border-style: solid;
+    border-width: 8px;
+    border-color: #f8f3f2;
+}
+
+@media (max-width: 976px) {
+    .hackers-image{
+        margin-top: 30px;
+        margin-bottom: 10px;
+    }
+}
+.container{
+    padding: 3%;
+}
+
+
+/* features */
+
+#features{
+    padding: 5% 8%;
+    background-color: black;
+    color: green;
+}
+
+.feature-hr{
+    background-color: green;
+    height: 2px;
+}
+.feature-box{
+    padding: 6% 6% 3% 6%;
+    text-align: center;
+    line-height: 35px;
+}
+
+.feature-icon{
+    color: green;
+    margin-bottom: 1.5rem;
+}
+
+.feature-icon:hover {
+    color: #A7D129;
+}
+
+.feature-p{
+    color: #64a33f;
+}
+
+.features-view-course-button{
+    margin: 1% 38% 1% 42%;
+}
+
+.features-h1-button{
+    color: green;
+}
+
+/* Testimomials */
+
+#testimonials{
+    color: rgb(201, 228, 201);
+    background-color: #414141;
+    text-align: center;
+    padding: 12% 15% 5% 12%;
+}
+
+.terminal-user{
+    font-size: 1.3rem;
+    text-align: left;
+    color: green;
+}
+
+.testimonial-user-feedback{
+    font-size: 2rem;
+    font-weight: 600;
+    line-height: 3rem;
+}
+
+@media (max-width: 957px){
+    .testimonial-user-feedback{
+        font-size: 1.2rem;
+    }
+}
+
+.testimonial-image{
+    width: 10%;
+    border-radius: 50%;
+    margin: 1%;
+}
+
+/* call to action */
+
+#cta{
+    background-color: rgb(30, 31, 32);
+    text-align: center;
+    padding: 8%;
+}
+
+.cta-h3{
+    color: chartreuse;
+    padding: 5%;
+}
+
+.cta-button{
+}
+
+.cta-login-button{
+    padding: 50px;
+    margin: 1px 30px;
+}
+
+.cta-signup-button{
+    padding: 50px;
+    margin: 1px 30px;
+}
+
+/* footer */
+
+#footer{
+    background-color: #DDDDDD;
+    padding: 8%;
+    text-align: center;
+}
