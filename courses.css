@@ -1,0 +1,42 @@
+#body{
+    padding: 6% 2%;
+    color: bisque;
+    background-color: #423F3E;
+    text-align: justify;
+}
+
+.content-border{
+    border: chartreuse solid 2px;
+
+}
+
+.content-text{
+    padding: 6% 5%;
+    word-spacing: 4px;
+}
+
+h1{
+    color:chartreuse;
+    padding: 2%;
+}
+
+h2{
+    color: chartreuse;
+    padding: 1% 0;
+}
+
+h3{
+    color: chartreuse;
+    padding: 1% 0;
+}
+
+p{
+    font-size: medium;
+}
+/* footer */
+
+#footer{
+    background-color: #C2B8A3;
+    padding: 4%;
+    text-align: center;
+}

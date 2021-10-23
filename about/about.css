@@ -1,0 +1,68 @@
+/* Navbar*/
+
+.navbar-heading{
+    text-align: center;
+    color: chartreuse;
+    font-family: 'Stick No Bills', sans-serif;
+}
+
+/* Title */
+
+#title{
+    background-color: black;
+    padding: 2%;
+    text-align: justify;
+}
+
+.title-content{
+    padding: 2%;
+}
+
+.title-h1{
+    color: darkgreen;
+    font-family: 'Gluten', cursive;
+}
+
+.title-p{
+    color: cornsilk;
+    font-size: 1.2rem;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+}
+
+.title-img{
+    padding-left: 5%;
+    filter: grayscale(100%);
+    filter: blur(2px);
+}
+
+/* Features */
+
+#features{
+    padding: 5%;
+    color: wheat;
+}
+
+.features-h1{
+    color: darkgreen;
+}
+
+.features-row{
+    padding: 3%;
+}
+.features-images{
+    width: 100%;
+}
+
+.feature-p{
+    padding-top: 10%;
+}
+
+
+/* footer */
+
+#footer{
+    background-color: #C2B8A3;
+    padding: 4%;
+    text-align: center;
+}

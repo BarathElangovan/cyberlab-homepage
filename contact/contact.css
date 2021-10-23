@@ -1,0 +1,44 @@
+/* Navbar*/
+
+.navbar-heading{
+    text-align: center;
+    color: chartreuse;
+    font-family: 'Stick No Bills', sans-serif;
+}
+
+
+/* Title */
+
+#title{
+    background-color: black;
+    padding: 2%;
+    text-align: justify;
+}
+
+.title-content{
+    padding: 2%;
+}
+
+.title-h1{
+    color: darkgreen;
+    font-family: 'Gluten', cursive;
+}
+
+.title-p{
+    color: cornsilk;
+    font-size: 1.2rem;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+}
+
+.title-content-container-1{
+    padding: 2%;
+    color: cornsilk;
+    font-size: 4rem;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+}
+
+.lab-incharge-details{
+    padding: 2%;
+}
